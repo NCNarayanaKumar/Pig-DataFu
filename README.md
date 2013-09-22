@@ -7,7 +7,7 @@ Toy examples of Pig udf
  -- pigudf using ruby gem public_suffix for domain name parsing
 
 HOW TO AUTO SHIP RUBY GEMS 
-----------
+
 (e.g., I had "require public_suffic" in DataBagEx.rb) 
 Check out this awesome project:
 https://github.com/jruby/warbler
