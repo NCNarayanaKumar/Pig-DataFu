@@ -2,7 +2,7 @@ require 'pigudf'
 require 'public_suffix'
 
 class Domainfunc < PigUdf
-#To use this pigudf: 
+#To use this pigudf, in pig script: 
 #REGISTER 'Domain.rb' USING jruby AS Domainfunc;
 
   outputSchema "{(name:chararray,sld:chararray,tld:chararray)}"
